@@ -16,7 +16,7 @@
       "sessions": [{
         "name": "Introduction to Appcamp.io",
         "location": "Room 2203",
-        "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+        "description": "文物预防性保护科技取得实质性进展；文物保护修复共性、关键技术填补行业部分空白；考古技术方法体系进一步发展创新；博物馆的智慧化建设取得试验性进展；文物保护专有装备产业化基础初步形成。Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
         "speakerNames": ["Ellie Elephant"],
         "timeStart": "9:00 am",
         "timeEnd": "9:30 am",
